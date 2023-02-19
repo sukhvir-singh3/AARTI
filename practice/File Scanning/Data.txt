@@ -1,0 +1,5 @@
+Name Age Class
+Sukhvir 20 12
+Aarti 19 12
+Rani 23 7
+Maduri 12 9
