@@ -1,3 +1,4 @@
+//This code includes 3 basic mistakes!
 #include <iostream>
 using namespace std;
 
