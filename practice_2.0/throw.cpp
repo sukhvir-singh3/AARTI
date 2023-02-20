@@ -1,5 +1,5 @@
 #include <iostream>
-void check(int x){
+void check(int x) noexcept{
 	if(x == 0)
 		throw "Value was Zero\n";
 	else
