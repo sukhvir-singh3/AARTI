@@ -1,6 +1,4 @@
 //This code includes 3 basic mistakes, time limit 10mins
-//AARTI TIME  : 4m59s34
-//MADHURI TIME:
 #include <iostream>
 using namespace std;
 

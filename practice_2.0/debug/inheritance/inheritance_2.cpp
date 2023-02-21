@@ -1,6 +1,4 @@
 //This code have 5 mistakes, time limit 15 mins 
-//AARTI'S   TIME:
-//MADHURI's TIME:
 #include <iostream>
 
 class Animal {
