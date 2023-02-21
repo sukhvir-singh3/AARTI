@@ -1,4 +1,4 @@
-//This code have 4 mistakes, time limit 15 mins 
+//This code have 3 mistakes, time limit 15 mins 
 #include <iostream>
 
 class Animal {
@@ -98,9 +98,7 @@ int main() {
 
 2) We use dynamic casting to cast the Animal pointer to a Cat pointer, which will give us a valid cat pointer if the Animal object is actually a Cat. We also check if the cast was successful before calling the makeSound method.
 
-3) We have used the virtual keyword for the makeSound method in the base class to ensure that the derived class implementation is called when we have a pointer to the base class.
-
-4) We have added a delete statement to properly free the memory allocated for the animal object.
+3) We have added a delete statement to properly free the memory allocated for the animal object.
 
 
 *********correct version**********
